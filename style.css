@@ -75,3 +75,8 @@ input[type="button"] {
 input[type="button"]:hover {
     background-color: #0056b3;
 }
+
+
+.senhaDeLogin_class label {
+    color: red !important;
+}
